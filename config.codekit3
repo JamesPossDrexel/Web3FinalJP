@@ -87,7 +87,7 @@
       "mi" : 1,
       "oA" : 0,
       "oAP" : "\/deploy\/js\/scripts-min.js",
-      "oF" : 2,
+      "oF" : 3,
       "sC" : 3,
       "tS" : 0
     },
@@ -267,8 +267,8 @@
     "creationDate" : 707931676.58111203,
     "displayValue" : "Web3FinalJP",
     "displayValueWasSetByUser" : 0,
-    "iconImageName" : "brackets-tar",
-    "iconImageWasSetByUser" : 0
+    "iconImageName" : "brackets_purple",
+    "iconImageWasSetByUser" : 1
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,
